@@ -10,8 +10,7 @@ The "for" loop is used to iterate over a sequence (such as a list, tuple, string
 
 **Syntax:**
 
-``
-`python
+```python
 for variable in sequence:
     # Code to be executed for each item in the sequence
 ```
@@ -19,7 +18,7 @@ for variable in sequence:
 **Example:**
 
 ```python
-for color in in colors :
+for color in colors :
     # Code to be executed for each item in the collection
 colors = ["red", "blue", "green"]
 for color in colors:
